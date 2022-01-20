@@ -1,0 +1,20 @@
+body{ 
+    background-color: gold;
+}
+
+li{
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 18px ;
+    background-color: royalblue;
+}
+
+li:hover {
+    background-color: lightblue;
+}
+
+a {
+    color: whitesmoke;
+}
