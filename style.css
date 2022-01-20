@@ -2,7 +2,14 @@ body{
     background-color: gold;
 }
 
+h1 {
+     text-align: center;
+}
+
+
+
 li{
+
     color: whitesmoke;
     text-align: center;
     padding: 10px;
