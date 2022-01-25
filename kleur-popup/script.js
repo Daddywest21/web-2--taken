@@ -5,3 +5,9 @@ var bodyElement = document.getElementsByTagName("body")[0];
 // dit stuk code gaat van het body element, de style opvragen (bodyElement.style)
 // vervolgens gaat dit de backgroundColor van het body element aanpassen
 bodyElement.style.backgroundColor = bodyColor;0
+
+var h1Color = prompt("geef me kleur voor de h1");
+
+var h1Element = document.getElementsByTagName("h1")[0]; 
+
+h1Element.style.color = h1Color;
