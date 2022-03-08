@@ -10,6 +10,10 @@ console.log(lijstActeur.length);
 
 
 for (let i = 0; i < lijstActeur.length; i++) {
-    console.log(lijstActeur[0]);
+    acteurPrinten(lijstActeur[i]);
 }
  
+function acteurPrinten(parameter) {
+    console.log(parameter.Name + ' ' + parameter.leeftijd + ' ' + parameter.Studio + ' ' + parameter.film + ' ' + parameter.Genre);
+}
+
