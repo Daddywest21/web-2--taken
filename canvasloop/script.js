@@ -42,11 +42,11 @@ let ctx = document.getElementById('canvas').getContext('2d');
     ctx.fill();
   }
 
-  createCircle();
 
   let i; // teller
-  let hoeveelKeerLoopen = 5;
+  let hoeveelKeerLoopen = 100;
   for (i = 0; i < hoeveelKeerLoopen; i++) {
     // stuk code die je uitvoert
-    console.log('verwijder deze lijn maar teken een cirkel in de plaats')
+    createCircle();
+    
   }
