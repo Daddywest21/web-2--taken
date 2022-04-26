@@ -48,14 +48,14 @@ color: #000;
     font-size: 18px;
     font-weight: 400;
 }
-/*top background*/
+/*top background*/ 
 .intro-header { 
-    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-top: 10px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
-    background: url('https://40.media.tumblr.com/1b916597d3e174399cb7adadddb66ede/tumblr_nt5uk4psl31ud7rr3o1_1280.jpg') no-repeat center center fixed;
-    background-size: cover;
-    height: 855px;
+    background: url('image/jp-portals-laatste-versie-josue.png') no-repeat center center fixed;
+    background-size: 50%;
+    height: 500px;
 }
 .bg-overlay {
   background:rgba(0,0,0, 0.3);
@@ -141,8 +141,9 @@ hr.intro-divider {
 /*section 2*/
 .content-section-a {
     padding: 50px 0;
-    background: url('https://68.media.tumblr.com/eb2382a5a4c996cfdab27bc0d1eb51ff/tumblr_nt5umxS1FY1ud7rr3o1_540.jpg') no-repeat center center fixed;
+    background: url('image/Portaels21.jpg') no-repeat center center fixed;
     background-size: cover;
+    background-size: 50%;
     height: 855px;
 }
 .bg-overlay2 {
@@ -201,7 +202,7 @@ h2.section-heading {
 /* Portfolio section*/
 section {
   color: black;
-  background: url('https://68.media.tumblr.com/d3fd545cd977a174beef12c1106880bf/tumblr_nt505iKkul1ud7rr3o1_1280.jpg') no-repeat center center fixed;
+  background: url('image/Portaels12.jpg') n;
   background-size: cover;
 }
 
@@ -329,7 +330,7 @@ section {
 
 .banner {
     padding: 100px 0;
-    background: url('https://68.media.tumblr.com/ac46aa24b44b5036e9200abb71f810d9/tumblr_nt5vzxV6Us1ud7rr3o1_1280.jpg') no-repeat center center fixed;
+    background: url('image/Portaels37.jpg') no-repeat center center fixed;
     background-size: cover;
     height: 755px;
 }
