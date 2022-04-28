@@ -144,7 +144,7 @@ hr.intro-divider {
     background: url('image/Portaels21.jpg') no-repeat center center fixed;
     background-size: cover;
     background-size: 50%;
-    height: 855px;
+    height: 600                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                px;
 }
 .bg-overlay2 {
   margin-top: -50px;
@@ -204,6 +204,7 @@ section {
   color: black;
   background: url('image/Portaels12.jpg') n;
   background-size: cover;
+  background-size: 50%;
 }
 
  #below-section {
@@ -331,15 +332,15 @@ section {
 .banner {
     padding: 100px 0;
     background: url('image/Portaels37.jpg') no-repeat center center fixed;
-    background-size: cover;
-    height: 755px;
+    background-size: 50%;
+    height: 600px;
 }
 
 .bg-overlay4 {
   margin-top: -100px;
   padding: 100px 0;
   background: rgba(255,255,255, 0.3);
-  height: 755px;
+  height: 600px;
 }
 
 .banner ul {
