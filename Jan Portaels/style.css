@@ -4,17 +4,8 @@ html {
     height: 100%;
     
 }
+.sh
 
-body,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-}
 
 .topnav {
     font-size: 16px;
@@ -144,7 +135,7 @@ hr.intro-divider {
     background: url('image/Portaels21.jpg') no-repeat center center fixed;
     background-size: cover;
     background-size: 50%;
-    height: 600                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                px;
+    height: 855px;
 }
 .bg-overlay2 {
   margin-top: -50px;
@@ -333,14 +324,14 @@ section {
     padding: 100px 0;
     background: url('image/Portaels37.jpg') no-repeat center center fixed;
     background-size: 50%;
-    height: 600px;
+    height: 755px;
 }
 
 .bg-overlay4 {
   margin-top: -100px;
   padding: 100px 0;
   background: rgba(255,255,255, 0.3);
-  height: 600px;
+  height: 755px;
 }
 
 .banner ul {
